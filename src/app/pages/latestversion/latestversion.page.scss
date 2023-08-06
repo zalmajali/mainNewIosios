@@ -1,0 +1,38 @@
+ion-content{
+	--background: #ffffff;
+    background-size: cover;
+	background-position:center;
+}
+.oneButton{
+	--background: #00ADEF;
+    --color: var(--ion-color-primary-contrast) !important;
+    --border-radius: 9px;
+    --padding: 0px;
+    height: 50px;
+    width: 50%;
+	text-transform:none;
+
+}
+.oneButton.activated{
+	--background:#00ADEF;
+	padding:0px;
+}
+.divButtonClass{
+	text-align:center;
+	padding-top:17px;
+}
+.divEmptyVal{
+    text-align: center;
+}
+.emptyFirstText{
+    font-size: 17px;
+    color: #0f75bd;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.emptyLastText{
+    font-size: 15px;
+     color:#0f75bd;
+	 padding-left:5px;
+	 padding-right:5px
+}

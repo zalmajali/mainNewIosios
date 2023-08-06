@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170004754478",
+    "project_id": "jalco-7d397",
+    "storage_bucket": "jalco-7d397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170004754478:android:283f5a76fd838ca411efbf",
+        "android_client_info": {
+          "package_name": "maintenance.pwprog.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170004754478-3tb66bv8a0v1cgusb3ikf88hd2pijvrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vB510WK-JgfeX4d4UyVToEuE-Yo2byQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170004754478-3tb66bv8a0v1cgusb3ikf88hd2pijvrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
